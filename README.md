@@ -8,7 +8,7 @@ LGI1 is an extracellular, secreted glycoprotein that plays a central role in syn
 <a href="https://www.rcsb.org/structure/5Y31">PDB: 5Y31</a> 
 composed of an LGI1 dimer bridging presynaptic ADAM23 and postsynaptic ADAM22 (<a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/29670100/">Yamagata et al., 2018</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/38700985/">Cuhadar et al., 2024</a>). 
 Pathogenic variants in LGI1 cause <b>Autosomal Dominant Lateral Temporal Epilepsy (ADLTE, OMIM: 600512)</b>—also known as <b>Autosomal Dominant Partial Epilepsy with Auditory Features (ADPEAF)</b>—a focal epilepsy syndrome characterized by auditory auras, linguistic disturbances, and focal seizures often triggered by sound
-<a href="https://pubmed.ncbi.nlm.nih.gov/11810107/">Kalachikov et al., 2002</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/11810107/">Kalachikov et al., 2002</a>,
 <a href="https://pubmed.ncbi.nlm.nih.gov/15079011/">Ottman et al., 2004</a>. ADLTE shows high penetrance, near-complete genetic specificity for LGI1, and represents one of the clearest examples of a monogenic human focal epilepsy. Beyond genetic etiologies, autoantibodies that target LGI1 cause a common form of limbic autoimmune encephalitis 
 <a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a>  
 .
