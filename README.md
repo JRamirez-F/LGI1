@@ -8,9 +8,9 @@ LGI1 is an extracellular, secreted glycoprotein that plays a central role in syn
 <a href="https://www.rcsb.org/structure/5Y31">PDB: 5Y31</a> 
 composed of an LGI1 dimer bridging presynaptic ADAM23 and postsynaptic ADAM22 (<a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/29670100/">Yamagata et al., 2018</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/38700985/">Cuhadar et al., 2024</a>). 
 Pathogenic variants in LGI1 cause <b>Autosomal Dominant Lateral Temporal Epilepsy (ADLTE, OMIM: 600512)</b>—also known as <b>Autosomal Dominant Partial Epilepsy with Auditory Features (ADPEAF)</b>—a focal epilepsy syndrome characterized by auditory auras, linguistic disturbances, and focal seizures often triggered by sound
-<a href="https://pubmed.ncbi.nlm.nih.gov/11810107/">Kalachikov et al., 2002</a>,
-<a href="https://pubmed.ncbi.nlm.nih.gov/15079011/">Ottman et al., 2004</a>. ADLTE shows high penetrance, near-complete genetic specificity for LGI1, and represents one of the clearest examples of a monogenic human focal epilepsy. Beyond genetic etiologies, autoantibodies that target LGI1 cause a common form of limbic autoimmune encephalitis 
-<a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a>  
+(<a href="https://pubmed.ncbi.nlm.nih.gov/11810107/">Kalachikov et al., 2002</a>,
+<a href="https://pubmed.ncbi.nlm.nih.gov/15079011/">Ottman et al., 2004</a>) . ADLTE shows high penetrance, near-complete genetic specificity for LGI1, and represents one of the clearest examples of a monogenic human focal epilepsy. Beyond genetic etiologies, autoantibodies that target LGI1 cause a common form of limbic autoimmune encephalitis 
+(<a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a>)  
 .
 </p>
 <br>
@@ -19,15 +19,21 @@ Pathogenic variants in LGI1 cause <b>Autosomal Dominant Lateral Temporal Epileps
 </p>
 <p align="justify" style="font-size:small;">
 <sub>
-Figure 1: <b>LGI1 forms trans-synaptic complexes</b>. The 5y31 model has been overimposed over TEM images of a synapses but this is not real data, just a cartoon. In the right, atomic models of the heterotetrameric complex (ADAM22:LGI1:LGI1:ADAM22). ADAM22 is a transmembrane protein, but the TM domain is not resolved in PDB: 5y31. In different shades of red, the most important secretion competent mutation found in LGI1 are shown (T380A, R407C, S473L, and R474Q)
+<b>Figure 1: LGI1 forms trans-synaptic complexes</b>. The 5y31 model has been overimposed over TEM images of a synapses but this is not real data, just a cartoon. In the right, atomic models of the heterotetrameric complex (ADAM22:LGI1:LGI1:ADAM22). ADAM22 is a transmembrane protein, but the TM domain is not resolved in PDB: 5y31. In different shades of red, the most important secretion competent mutation found in LGI1 are shown (T380A, R407C, S473L, and R474Q)
 </sub>
 </p>
 <br>
 
-## LGI1 and Kv1 Potassium Channel Regulation
+## LGI1 and Kv1 Potassium Channels
 
 <p align="justify">
-A key function of LGI1 is the regulation of delayed-rectifier Kv1 potassium channel complexes. LGI1 loss—whether due to genetic deficiency [Chabrol et al., 2010], secretion-defective mutations [Baudin et al., 2022], non-secretion–impairing mutations [Dazzo et al., 2016], or pathogenic autoantibodies [Irani et al., 2010; Ramberger et al., 2020]—results in reduced Kv1 expression and destabilization of Kv1 channel complexes. This decrease in Kv1 conductance lowers rheobase and produces pronounced intrinsic hyperexcitability [Seagar et al., 2017; Extrémet et al., 2022], particularly in CA3 pyramidal neurons [Seagar et al., 2017; Extrémet et al., 2023; Ramirez-Franco et al., 2024]. In contrast, PV⁺ interneurons maintain normal excitability and Kv1 content under LGI1-deficient conditions [Zhou et al., 2018; Ramirez-Franco et al., 2024], underscoring a striking cell-type-specific requirement for LGI1.
+A key function of LGI1 is the regulation of delayed-rectifier Kv1 potassium channel complexes. LGI1 loss, whether due to genetic deficiency (<a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Chabrol et al., 2010</a>), secretion-defective mutations
+(<a href="https://pubmed.ncbi.nlm.nih.gov/34967933/">Baudin et al., 2021</a>),
+non-secretion–impairing mutations 
+<a href="https://pubmed.ncbi.nlm.nih.gov/27760137/">Dazzo et al., 2016</a>, 
+or pathogenic autoantibodies 
+(<a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/32437528/">Ramberger et al., 2020</a>, 
+results in reduced Kv1 expression and destabilization of Kv1 channel complexes. This decrease in Kv1 conductance lowers rheobase and produces pronounced intrinsic hyperexcitability [Seagar et al., 2017; Extrémet et al., 2022], particularly in CA3 pyramidal neurons [Seagar et al., 2017; Extrémet et al., 2023; Ramirez-Franco et al., 2024]. In contrast, PV⁺ interneurons maintain normal excitability and Kv1 content under LGI1-deficient conditions [Zhou et al., 2018; Ramirez-Franco et al., 2024], underscoring a striking cell-type-specific requirement for LGI1.
 </p>
 
 ## LGI1 and AMPA Receptor Complexes
@@ -65,7 +71,7 @@ Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel s
 <sub><b>Ramirez-Franco J*</b>, Debreux K*, Extremet J, Maulet Y, Belghazi M, Villard C, Sangiardi M, Youssouf F, El Far L, Lévêque C, et al. (2022) Patient-derived antibodies reveal the subcellular distribution and heterogeneous interactome of LGI1. Brain : a journal of neurology 145: 3843–3858</sub><br>
   <br>
 <sub><b>Ramirez-Franco J #</b>, Debreux K, Sangiardi M, Belghazi M, Kim Y, Lee S-H, Lévêque C, Seagar M & El Far O #(2024) The downregulation of Kv1 channels in Lgi1-/-mice is accompanied by a profound modification of its interactome and a parallel decrease in Kv2 channels. Neurobiol Dis 196: 106513</sub><br>
-  #Co-corresponding authors
+<sub>#Co-corresponding authors</sub><br>
   <br>
 <sub><b>Ramirez-Franco J</b>, Sangiardi M, Debreux K, Belghazi M, Lévêque C, Seagar M & Far OE (2025) A hyperglycosylated form of Kv1.2 upregulated in LGI1 knockout mice. 2025.10.29.685130 doi:10.1101/2025.10.29.685130 [PREPRINT]</sub><br>
 </p>
