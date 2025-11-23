@@ -67,14 +67,14 @@ Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel s
 <p align="justify">
 <h6>Extrémet J, <b>Ramirez-Franco J</b>, Fronzaroli-Molinieres L, Boumedine-Guignon N, Ankri N, El Far O, Garrido JJ, Debanne D & Russier M (2023) Rescue of Normal Excitability in LGI1-Deficient Epileptic Neurons. J Neurosci 43: 8596–8606</h6><br>
 <br>  
-<sub>Ramberger M, Berretta A, Tan JMM, Sun B, Michael S, Yeo T, Theorell J, Bashford-Rogers R, Paneva S, O’Dowd V,..., <b>Ramirez-Franco J</b> et al. (2020) Distinctive binding properties of human monoclonal LGI1 autoantibodies determine pathogenic mechanisms. Brain 143: 1731–1745</sub><br>
+<h6>Ramberger M, Berretta A, Tan JMM, Sun B, Michael S, Yeo T, Theorell J, Bashford-Rogers R, Paneva S, O’Dowd V,..., <b>Ramirez-Franco J</b> et al. (2020) Distinctive binding properties of human monoclonal LGI1 autoantibodies determine pathogenic mechanisms. Brain 143: 1731–1745</h6><br>
+<br>
+<h6><b>Ramirez-Franco J*</b>, Debreux K*, Extremet J, Maulet Y, Belghazi M, Villard C, Sangiardi M, Youssouf F, El Far L, Lévêque C, et al. (2022) Patient-derived antibodies reveal the subcellular distribution and heterogeneous interactome of LGI1. Brain : a journal of neurology 145: 3843–3858</h6><br>
   <br>
-<sub><b>Ramirez-Franco J*</b>, Debreux K*, Extremet J, Maulet Y, Belghazi M, Villard C, Sangiardi M, Youssouf F, El Far L, Lévêque C, et al. (2022) Patient-derived antibodies reveal the subcellular distribution and heterogeneous interactome of LGI1. Brain : a journal of neurology 145: 3843–3858</sub><br>
+<h6><b>Ramirez-Franco J #</b>, Debreux K, Sangiardi M, Belghazi M, Kim Y, Lee S-H, Lévêque C, Seagar M & El Far O #(2024) The downregulation of Kv1 channels in Lgi1-/-mice is accompanied by a profound modification of its interactome and a parallel decrease in Kv2 channels. Neurobiol Dis 196: 106513</sub><br>
+<sub>#Co-corresponding authors</h6><br>
   <br>
-<sub><b>Ramirez-Franco J #</b>, Debreux K, Sangiardi M, Belghazi M, Kim Y, Lee S-H, Lévêque C, Seagar M & El Far O #(2024) The downregulation of Kv1 channels in Lgi1-/-mice is accompanied by a profound modification of its interactome and a parallel decrease in Kv2 channels. Neurobiol Dis 196: 106513</sub><br>
-<sub>#Co-corresponding authors</sub><br>
-  <br>
-<sub><b>Ramirez-Franco J</b>, Sangiardi M, Debreux K, Belghazi M, Lévêque C, Seagar M & Far OE (2025) A hyperglycosylated form of Kv1.2 upregulated in LGI1 knockout mice. 2025.10.29.685130 doi:10.1101/2025.10.29.685130 [PREPRINT]</sub><br>
+<h6><b>Ramirez-Franco J</b>, Sangiardi M, Debreux K, Belghazi M, Lévêque C, Seagar M & Far OE (2025) A hyperglycosylated form of Kv1.2 upregulated in LGI1 knockout mice. 2025.10.29.685130 doi:10.1101/2025.10.29.685130 [PREPRINT]</h6><br>
 </p>
 
 ## References
