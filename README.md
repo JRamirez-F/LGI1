@@ -78,6 +78,12 @@ Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel s
 <h5><b>Ramirez-Franco J</b>, Sangiardi M, Debreux K, Belghazi M, Lévêque C, Seagar M & Far OE (2025) A hyperglycosylated form of Kv1.2 upregulated in LGI1 knockout mice. 2025.10.29.685130 doi:10.1101/2025.10.29.685130 [PREPRINT]</h5><br>
 </p>
 
+## Our Colaborators
+
+* Oussama El Far, PhD, DR2, INSERM, Aix-Marseillé Université. Marseille, FR
+* Sarosh R. Irani, B.M., B.Ch., D.Phil., Mayo Clinics. Jacksonville, FL, US
+* Domique Debanne, PhD, DRCE, CNRS, Aix-Marseille Université. Marseille, FR
+
 ## References
 
 <p align="justify">
