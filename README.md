@@ -14,7 +14,9 @@ Pathogenic variants in LGI1 cause <b>Autosomal Dominant Lateral Temporal Epileps
 .
 </p>
 
-
+<p align="center">
+  <img src="images/Cartoon_1.png" alt="Logos" width="2000"/>
+</p>
 
 
 ## LGI1 and Kv1 Potassium Channel Regulation
