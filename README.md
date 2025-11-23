@@ -65,7 +65,7 @@ Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel s
 
 ## Our contributions to understanding LGI1
 <p align="justify">
-<sub>Extrémet J, <b>Ramirez-Franco J</b>, Fronzaroli-Molinieres L, Boumedine-Guignon N, Ankri N, El Far O, Garrido JJ, Debanne D & Russier M (2023) Rescue of Normal Excitability in LGI1-Deficient Epileptic Neurons. J Neurosci 43: 8596–8606</sub><br>
+<h6>Extrémet J, <b>Ramirez-Franco J</b>, Fronzaroli-Molinieres L, Boumedine-Guignon N, Ankri N, El Far O, Garrido JJ, Debanne D & Russier M (2023) Rescue of Normal Excitability in LGI1-Deficient Epileptic Neurons. J Neurosci 43: 8596–8606</h6><br>
 <br>  
 <sub>Ramberger M, Berretta A, Tan JMM, Sun B, Michael S, Yeo T, Theorell J, Bashford-Rogers R, Paneva S, O’Dowd V,..., <b>Ramirez-Franco J</b> et al. (2020) Distinctive binding properties of human monoclonal LGI1 autoantibodies determine pathogenic mechanisms. Brain 143: 1731–1745</sub><br>
   <br>
