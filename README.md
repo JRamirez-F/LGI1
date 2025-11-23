@@ -6,11 +6,11 @@
 <p align="justify">
 LGI1 is an extracellular, secreted glycoprotein that plays a central role in synaptic organization and neuronal excitability. It forms a trans-synaptic heterotetrameric complex 
 <a href="https://www.rcsb.org/structure/5Y31">PDB: 5Y31</a> 
-composed of an LGI1 dimer bridging presynaptic ADAM23 and postsynaptic ADAM22 (<a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/29670100/">Yamagata et al., 2018</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/38700985/">Cuhadar et al., 2024</a>). 
-Pathogenic variants in LGI1 cause <b>Autosomal Dominant Lateral Temporal Epilepsy (ADLTE, OMIM: 600512)</b>—also known as <b>Autosomal Dominant Partial Epilepsy with Auditory Features (ADPEAF)</b>—a focal epilepsy syndrome characterized by auditory auras, linguistic disturbances, and focal seizures often triggered by sound
-(<a href="https://pubmed.ncbi.nlm.nih.gov/11810107/">Kalachikov et al., 2002</a>,
-<a href="https://pubmed.ncbi.nlm.nih.gov/15079011/">Ottman et al., 2004</a>) . ADLTE shows high penetrance, near-complete genetic specificity for LGI1, and represents one of the clearest examples of a monogenic human focal epilepsy. Beyond genetic etiologies, autoantibodies that target LGI1 cause a common form of limbic autoimmune encephalitis 
-(<a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a>)  
+composed of an LGI1 dimer bridging presynaptic ADAM23 and postsynaptic ADAM22 ( <a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/29670100/">Yamagata et al., 2018</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/38700985/">Cuhadar et al., 2024</a> ). 
+Pathogenic variants in LGI1 cause <b>Autosomal Dominant Lateral Temporal Epilepsy (ADLTE, <a href="[https://pubmed.ncbi.nlm.nih.gov/16990550/](https://omim.org/entry/600512)">OMIM: 600512</a> )</b>—also known as <b>Autosomal Dominant Partial Epilepsy with Auditory Features (ADPEAF)</b>—a focal epilepsy syndrome characterized by auditory auras, linguistic disturbances, and focal seizures often triggered by sound
+( <a href="https://pubmed.ncbi.nlm.nih.gov/11810107/">Kalachikov et al., 2002</a>,
+<a href="https://pubmed.ncbi.nlm.nih.gov/15079011/">Ottman et al., 2004</a> ) . ADLTE shows high penetrance, near-complete genetic specificity for LGI1, and represents one of the clearest examples of a monogenic human focal epilepsy. Beyond genetic etiologies, autoantibodies that target LGI1 cause a common form of limbic autoimmune encephalitis 
+( <a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a> )  
 .
 </p>
 <br>
@@ -28,12 +28,13 @@ Pathogenic variants in LGI1 cause <b>Autosomal Dominant Lateral Temporal Epileps
 
 <p align="justify">
 A key function of LGI1 is the regulation of delayed-rectifier Kv1 potassium channel complexes. LGI1 loss, whether due to genetic deficiency (<a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Chabrol et al., 2010</a>), secretion-defective mutations
-(<a href="https://pubmed.ncbi.nlm.nih.gov/34967933/">Baudin et al., 2021</a>),
-non-secretion–impairing mutations 
-<a href="https://pubmed.ncbi.nlm.nih.gov/27760137/">Dazzo et al., 2016</a>, 
+( <a href="https://pubmed.ncbi.nlm.nih.gov/34967933/">Baudin et al., 2021</a> ),
+secretion–competent mutations 
+( <a href="https://pubmed.ncbi.nlm.nih.gov/27760137/">Dazzo et al., 2016</a> ), 
 or pathogenic autoantibodies 
-(<a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/32437528/">Ramberger et al., 2020</a>, 
-results in reduced Kv1 expression and destabilization of Kv1 channel complexes. This decrease in Kv1 conductance lowers rheobase and produces pronounced intrinsic hyperexcitability [Seagar et al., 2017; Extrémet et al., 2022], particularly in CA3 pyramidal neurons [Seagar et al., 2017; Extrémet et al., 2023; Ramirez-Franco et al., 2024]. In contrast, PV⁺ interneurons maintain normal excitability and Kv1 content under LGI1-deficient conditions [Zhou et al., 2018; Ramirez-Franco et al., 2024], underscoring a striking cell-type-specific requirement for LGI1.
+( <a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/32437528/">Ramberger et al., 2020</a> ), 
+results in reduced Kv1 expression and destabilization of Kv1 channel complexes. This decrease in Kv1 conductance lowers rheobase and produces pronounced intrinsic hyperexcitability 
+[Seagar et al., 2017; Extrémet et al., 2022], particularly in CA3 pyramidal neurons [Seagar et al., 2017; Extrémet et al., 2023; Ramirez-Franco et al., 2024]. In contrast, PV⁺ interneurons maintain normal excitability and Kv1 content under LGI1-deficient conditions [Zhou et al., 2018; Ramirez-Franco et al., 2024], underscoring a striking cell-type-specific requirement for LGI1.
 </p>
 
 ## LGI1 and AMPA Receptor Complexes
