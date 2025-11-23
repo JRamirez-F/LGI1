@@ -13,11 +13,16 @@ Pathogenic variants in LGI1 cause <b>Autosomal Dominant Lateral Temporal Epileps
 <a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a>  
 .
 </p>
-
+<br>
 <p align="center">
   <img src="images/Cartoon_1_xed.png" alt="LGI1_in_synapses" width="1600"/>
 </p>
-
+<p align="justify" style="font-size:small;">
+<sub>
+Figure 1: <b>LGI1 forms trans-synaptic complexes</b>. The 5y31 model has been overimposed over TEM images of a synapses but this is not real data, just a cartoon. In the right, atomic models of the heterotetrameric complex (ADAM22:LGI1:LGI1:ADAM22). ADAM22 is a transmembrane protein, but the TM domain is not resolved in PDB: 5y31. In different shades of red, the most important secretion competent mutation found in LGI1 are shown (T380A, R407C, S473L, and R474Q)
+</sub>
+</p>
+<br>
 
 ## LGI1 and Kv1 Potassium Channel Regulation
 
@@ -51,9 +56,25 @@ Importantly, Kv1 downregulation extends beyond the AIS [Ramirez-Franco et al., 2
 Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel stability by forming multimeric assemblies that limit channel internalization or degradation [Yamagata et al., 2018; Yamaguchi et al., 2025]. Recent structural data suggest a higher-order trimer-of-dimers architecture (a heterohexamer), opening new perspectives on how LGI1 organizes and stabilizes membrane protein complexes in specific neuronal domains. Despite unchanged Kv1 mRNA levels in Lgi1⁻/⁻ mice [Seagar et al., 2017], pathological features such as Kv1.2 hyper-glycosylation have been observed [Ramirez-Franco et al., 2025], suggesting defects in channel trafficking and stabilization. Endocytosis of LGI1–antibody complexes in cell culture [Ramberger et al., 2020] further supports a role for LGI1 in stabilizing membrane protein assemblies. Given LGI1’s broad interaction network, it may act as a general extracellular scaffold that promotes the stability of membrane protein complexes. However, the precise subcellular sites of LGI1 complex assembly remain unknown. Our work aims to resolve these outstanding questions by combining advanced light and electron microscopy with pathogenic monoclonal antibodies to map LGI1 assembly, trafficking, and function with subcellular precision.
 </p>
 
+## Our contributions to understanding LGI1
+<p align="justify">
+<sub>Extrémet J, <b>Ramirez-Franco J</b>, Fronzaroli-Molinieres L, Boumedine-Guignon N, Ankri N, El Far O, Garrido JJ, Debanne D & Russier M (2023) Rescue of Normal Excitability in LGI1-Deficient Epileptic Neurons. J Neurosci 43: 8596–8606</sub><br>
+<br>  
+<sub>Ramberger M, Berretta A, Tan JMM, Sun B, Michael S, Yeo T, Theorell J, Bashford-Rogers R, Paneva S, O’Dowd V,..., <b>Ramirez-Franco J</b> et al. (2020) Distinctive binding properties of human monoclonal LGI1 autoantibodies determine pathogenic mechanisms. Brain 143: 1731–1745</sub><br>
+  <br>
+<sub><b>Ramirez-Franco J*</b>, Debreux K*, Extremet J, Maulet Y, Belghazi M, Villard C, Sangiardi M, Youssouf F, El Far L, Lévêque C, et al. (2022) Patient-derived antibodies reveal the subcellular distribution and heterogeneous interactome of LGI1. Brain : a journal of neurology 145: 3843–3858</sub><br>
+  <br>
+<sub><b>Ramirez-Franco J #</b>, Debreux K, Sangiardi M, Belghazi M, Kim Y, Lee S-H, Lévêque C, Seagar M & El Far O #(2024) The downregulation of Kv1 channels in Lgi1-/-mice is accompanied by a profound modification of its interactome and a parallel decrease in Kv2 channels. Neurobiol Dis 196: 106513</sub><br>
+  #Co-corresponding authors
+  <br>
+<sub><b>Ramirez-Franco J</b>, Sangiardi M, Debreux K, Belghazi M, Lévêque C, Seagar M & Far OE (2025) A hyperglycosylated form of Kv1.2 upregulated in LGI1 knockout mice. 2025.10.29.685130 doi:10.1101/2025.10.29.685130 [PREPRINT]</sub><br>
+</p>
+
 ## References
 
 <p align="justify">
+<details>
+<summary>Click to expand references</summary>
 <sub>Avoli M & de Curtis M (2011) _GABAergic synchronization in the limbic system and its role in the generation of epileptiform activity_. Prog Neurobiol 95: 104–132</sub><br>
 <sub>Baudin P, Cousyn L & Navarro V (2022) _The LGI1 protein: molecular structure, physiological functions and disruption-related seizures_. Cell Mol Life Sci 79: 16</sub><br>
 <sub>Boillot M, Lee CY, Allene C, Leguern E, Baulac S & Rouach N (2016) LGI1 acts presynaptically to regulate excitatory synaptic transmission during early postnatal development. Scientific Reports 6: 1–9</sub><br>
@@ -61,7 +82,6 @@ Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel s
 <sub>Cuhadar U, Calzado-Reyes L, Pascual-Caro C, Aberra AS, Ritzau-Jost A, Aggarwal A, Ibata K, Podgorski K, Yuzaki M, Geis C, et al (2024) Activity-driven synaptic translocation of LGI1 controls excitatory neurotransmission. Cell Reports 43: 114186</sub><br>
 <sub>Dazzo E, Leonardi E, Belluzzi E, Malacrida S, Vitiello L, Greggio E, Tosatto SCE & Nobile C (2016) Secretion-Positive LGI1 Mutations Linked to Lateral Temporal Epilepsy Impair Binding to ADAM22 and ADAM23 Receptors. PLoS Genetics 12: 1–15</sub><br>
 <sub>Extrémet J, El Far O, Ankri N, Irani SR, Debanne D & Russier M (2022) An Epitope-Specific LGI1-Autoantibody Enhances Neuronal Excitability by Modulating Kv1.1 Channel. Cells 11: 2713</sub><br>
-<sub>Extrémet J, Ramirez-Franco J, Fronzaroli-Molinieres L, Boumedine-Guignon N, Ankri N, El Far O, Garrido JJ, Debanne D & Russier M (2023) Rescue of Normal Excitability in LGI1-Deficient Epileptic Neurons. J Neurosci 43: 8596–8606</sub><br>
 <sub>Fukata Y, Adesnik H, Iwanaga T, Bredt DS, Nicoll RA & Fukata M (2006) Epilepsy-related ligand/receptor complex LGI1 and ADAM22 regulate synaptic transmission. Science 313: 1792–1795</sub><br>
 <sub>Fukata Y, Lovero KL, Iwanaga T, Watanabe A, Yokoi N, Tabuchi K, Shigemoto R, Nicoll RA & Fukata M (2010) Disruption of LGI1-linked synaptic complex causes abnormal synaptic transmission and epilepsy. Proceedings of the National Academy of Sciences 107: 3799–3804</sub><br>
 <sub>Haddjeri-Hopkins A, Tapia M, Ramirez-Franco J, Tell F, Marqueze-Pouey B, Amalric M & Goaillard JM (2021) Refining the Identity and Role of Kv4 Channels in Mouse Substantia Nigra Dopaminergic Neurons. eNeuro 8</sub><br>
@@ -78,10 +98,6 @@ Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel s
 <sub>Ohkawa T, Fukata Y, Yamasaki M, Miyazaki T, Yokoi N, Takashima H, Watanabe M, Watanabe O & Fukata M (2013) Autoantibodies to Epilepsy-Related LGI1 in Limbic Encephalitis Neutralize LGI1-ADAM22 Interaction and Reduce Synaptic AMPA Receptors. Journal of Neuroscience 33: 18161–18174</sub><br>
 <sub>Ottman R, Winawer MR, Kalachikov S, Barker-Cummings C, Gilliam TC, Pedley TA & Hauser WA (2004) LGI1 mutations in autosomal dominant partial epilepsy with auditory features. Neurology 62: 1120–1126</sub><br>
 <sub>Petit-Pedrol M, Sell J, Planagumà J, Mannara F, Radosevic M, Haselmann H, Ceanga M, Sabater L, Spatola M, Soto D, et al (2018) LGI1 antibodies alter Kv1.1 and AMPA receptors changing synaptic excitability, plasticity and memory. Brain: 1–16</sub><br>
-<sub>Ramberger M, Berretta A, Tan JMM, Sun B, Michael S, Yeo T, Theorell J, Bashford-Rogers R, Paneva S, O’Dowd V, et al (2020) Distinctive binding properties of human monoclonal LGI1 autoantibodies determine pathogenic mechanisms. Brain 143: 1731–1745</sub><br>
-<sub>Ramirez-Franco J, Debreux K, Extremet J, Maulet Y, Belghazi M, Villard C, Sangiardi M, Youssouf F, El Far L, Lévêque C, et al (2022) Patient-derived antibodies reveal the subcellular distribution and heterogeneous interactome of LGI1. Brain : a journal of neurology 145: 3843–3858</sub><br>
-<sub>Ramirez-Franco J, Debreux K, Sangiardi M, Belghazi M, Kim Y, Lee S-H, Lévêque C, Seagar M & El Far O (2024) The downregulation of Kv1 channels in Lgi1-/-mice is accompanied by a profound modification of its interactome and a parallel decrease in Kv2 channels. Neurobiol Dis 196: 106513</sub><br>
-<sub>Ramirez-Franco J, Sangiardi M, Debreux K, Belghazi M, Lévêque C, Seagar M & Far OE (2025) A hyperglycosylated form of Kv1.2 upregulated in LGI1 knockout mice. 2025.10.29.685130 doi:10.1101/2025.10.29.685130 [PREPRINT]</sub><br>
 <sub>Raus Balind S, Magó Á, Ahmadi M, Kis N, Varga-Németh Z, Lőrincz A & Makara JK (2019) Diverse synaptic and dendritic mechanisms of complex spike burst generation in hippocampal CA3 pyramidal cells. Nature Communications 10: 1859</sub><br>
 <sub>Ren X, Brodovskaya A, Hudson JL & Kapur J (2021) Connectivity and Neuronal Synchrony during Seizures. J Neurosci 41: 7623–7635</sub><br>
 <sub>Seagar M, Russier M, Caillard O, Maulet Y, Fronzaroli-Molinieres L, De San Feliciano M, Boumedine-Guignon N, Rodriguez L, Zbili M, Usseglio F, et al (2017) LGI1 tunes intrinsic excitability by regulating the density of axonal Kv1 channels. Proceedings of the National Academy of Sciences 114: 7719–7724</sub><br>
@@ -96,5 +112,5 @@ Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel s
 <sub>Zhou L, Wang K, Xu Y, Dong B-B, Wu D-C, Wang Z-X, Wang X-T, Cai X-Y, Yang J-T, Zheng R, et al (2023) A patient-derived mutation of epilepsy-linked LGI1 increases seizure susceptibility through regulating Kv1.1. Cell Biosci 13: 34</sub><br>
 <sub>Zhou L, Zhou L, Su LD, Cao SL, Xie YJ, Wang N, Shao CY, Wang YN, Zhou JH, Cowell JK, et al (2018) Celecoxib ameliorates seizure susceptibility in autosomal dominant lateral temporal epilepsy. Journal of Neuroscience 38: 3346–3357</sub><br>
 <sub>Zhou YD, Lee S, Jin Z, Wright M, Smith SEP & Anderson MP (2009) Arrested maturation of excitatory synapses in autosomal dominant lateral temporal lobe epilepsy. Nature Medicine 15: 1208–1214</sub><br>
+</details>
 </p>
-
