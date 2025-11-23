@@ -15,7 +15,7 @@ Pathogenic variants in LGI1 cause <b>Autosomal Dominant Lateral Temporal Epileps
 </p>
 
 <p align="center">
-  <img src="images/Cartoon_1.png" alt="Logos" width="2000"/>
+  <img src="images/Cartoon_1_xed.png" alt="LGI1_in_synapses" width="1600"/>
 </p>
 
 
