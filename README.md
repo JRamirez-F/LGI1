@@ -50,6 +50,18 @@ LGI1 deficiency leads to reduced Kv1 channel content at the axon initial segment
 
 A hallmark of LGI1 deficiency is a robust bursting phenotype in CA3 pyramidal neurons [Ramirez-Franco et al., 2024; Zhou et al., 2023; Upadhya et al., 2025], characterized by increased after-depolarization (ADP) and enhanced spike clustering even at low current injections. In hippocampal neurons, bursting can arise from dendritic mechanisms involving Ca²⁺ spikes, augmented ADP, and modulation of dendritic potassium channels [Metz et al., 2007; Lazarewicz et al., 2002; Raus Balind et al., 2019]. Thus, LGI1 deficiency likely combines a lowered firing threshold (from AIS Kv1 loss) with enhanced dendritic excitability (via somatodendritic Kv1 and Ca²⁺ channel remodeling). This dual mechanism may promote the synchronous CA3 bursting that resembles interictal spikes [Traub & Wong, 1982; Xu & Clancy, 2008; Ren et al., 2021]. The high degree of recurrent connectivity in CA3 networks [Mitra et al., 2012], combined with the high sensitivity of CA3-driven interictal activity to low concentrations of 4-AP [Avoli & de Curtis, 2011], further supports this mechanistic framework.
 </p>
+</p>
+<br>
+<p align="center">
+  <img src="images/Fig_2.png" alt="LGI1_in_synapses" width="1600"/>
+</p>
+<p align="justify" style="font-size:small;">
+<sub>
+<b>Figure 1: LGI1 defficiency increases excitability and bursting propensity through Kv1 reduction</b>. Effect...
+</sub>
+</p>
+<br>
+
 
 ## Research Approaches
 
