@@ -6,17 +6,18 @@
 <p align="justify">
 LGI1 is an extracellular, secreted glycoprotein that plays a central role in synaptic organization and neuronal excitability. It forms a trans-synaptic heterotetrameric complex 
 <a href="https://www.rcsb.org/structure/5Y31">PDB: 5Y31</a> 
-composed of an LGI1 dimer bridging presynaptic ADAM23 and postsynaptic ADAM22 
-( <a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, 
+composed of an LGI1 dimer bridging presynaptic ADAM23 and postsynaptic ADAM22 ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, 
   <a href="https://pubmed.ncbi.nlm.nih.gov/29670100/">Yamagata et al., 2018</a>, 
   <a href="https://pubmed.ncbi.nlm.nih.gov/38700985/">Cuhadar et al., 2024</a> ). 
 Pathogenic variants in LGI1 cause <b>Autosomal Dominant Lateral Temporal Epilepsy (ADLTE, 
   <a href="https://omim.org/entry/600512">OMIM: 600512</a> )</b>, 
-also known as <b>Autosomal Dominant Partial Epilepsy with Auditory Features (ADPEAF)</b>, a focal epilepsy syndrome characterized by auditory auras, linguistic disturbances, and focal seizures often triggered by sound( 
+also known as <b>Autosomal Dominant Partial Epilepsy with Auditory Features (ADPEAF)</b>, a focal epilepsy syndrome characterized by auditory auras, linguistic disturbances, and focal seizures often triggered by sound ( 
   <a href="https://pubmed.ncbi.nlm.nih.gov/11810107/">Kalachikov et al., 2002</a>,
   <a href="https://pubmed.ncbi.nlm.nih.gov/15079011/">Ottman et al., 2004</a> ). 
-ADLTE shows high penetrance, near-complete genetic specificity for LGI1, and represents one of the clearest examples of a monogenic human focal epilepsy. Beyond genetic etiologies, autoantibodies that target LGI1 cause a common form of limbic autoimmune encephalitis (    <a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a> )  
-.
+ADLTE shows high penetrance, near-complete genetic specificity for LGI1, and represents one of the clearest examples of a monogenic human focal epilepsy. Beyond genetic etiologies, autoantibodies that target LGI1 cause a common form of limbic autoimmune encephalitis (    <a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a> 
+).
+  
 </p>
 <br>
 <p align="center">
@@ -43,22 +44,57 @@ or pathogenic autoantibodies
   <a href="https://pubmed.ncbi.nlm.nih.gov/28673977/">Seagar et al., 2017</a>, 
   <a href="https://pubmed.ncbi.nlm.nih.gov/37863654/">Extrémet et al., 2023</a> )
 , particularly in CA3 pyramidal neurons ( 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a> ). 
-In contrast, PV⁺ interneurons maintain normal excitability and Kv1 content under LGI1-deficient conditions ( <a href="https://pubmed.ncbi.nlm.nih.gov/29491011/">Zhou et al., 2018</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a>  ), underscoring a striking cell-type-specific requirement for LGI1.
+  <a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a> 
+). In contrast, PV⁺ interneurons maintain normal excitability and Kv1 content under LGI1-deficient conditions ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/29491011/">Zhou et al., 2018</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a>  
+), underscoring a striking cell-type-specific requirement for LGI1.
 </p>
 
 ## LGI1 and AMPA Receptor Complexes
 
 <p align="justify">
-Although early studies suggested that LGI1 organizes AMPA receptor complexes ( <a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/26178195/">Lovero et al., 2015</a> ), recent proteomic analyses failed to detect GluA subunits within LGI1 interactomes ( <a href="https://pubmed.ncbi.nlm.nih.gov/35727946/">Ramirez-Franco et al., 2022</a> ). Combined with inconsistent electrophysiological findings 
-( <a href="https://pubmed.ncbi.nlm.nih.gov/20133599/">Fukata et al., 2010</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/26178195/">Lovero et al., 2015</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/30225353/">Thomas et al., 2018</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/20130004/">Yu et al., 2010</a>,  <a href="https://pubmed.ncbi.nlm.nih.gov/26878798/">Boillot et al., 2016</a>,  <a href="https://pubmed.ncbi.nlm.nih.gov/19701204/">Zhou et al., 2009</a>,  <a href="https://pubmed.ncbi.nlm.nih.gov/21054347/">Lalic et al., 2011</a>,  <a href="https://pubmed.ncbi.nlm.nih.gov/30346486/">Petit-Pedrol et al., 2018</a>  ), 
-this questions whether LGI1 directly regulates AMPAR function under native conditions. Mapping LGI1 distribution has long been hindered by poor antibody specificity [Ohkawa et al., 2013], but patient-derived monoclonal antibodies ( <a href="https://pubmed.ncbi.nlm.nih.gov/32437528/">Ramberger et al., 2020</a> ) now allow precise localization at mesoscopic, subcellular, and proteomic scales [Ramirez-Franco et al., 2022]. LGI1 expression is especially high in the hippocampus, notably in the dentate gyrus (DG) and CA3 subfields [Herranz-Pérez et al., 2010; Smedfors et al., 2018; Ramirez-Franco et al., 2022].
+Although early studies suggested that LGI1 organizes AMPA receptor complexes ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/26178195/">Lovero et al., 2015</a> 
+), recent proteomic analyses failed to detect GluA subunits within LGI1 interactomes ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/35727946/">Ramirez-Franco et al., 2022</a> 
+). Combined with inconsistent electrophysiological findings ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/20133599/">Fukata et al., 2010</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/26178195/">Lovero et al., 2015</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/30225353/">Thomas et al., 2018</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/20130004/">Yu et al., 2010</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/26878798/">Boillot et al., 2016</a>,  
+  <a href="https://pubmed.ncbi.nlm.nih.gov/19701204/">Zhou et al., 2009</a>,  
+  <a href="https://pubmed.ncbi.nlm.nih.gov/21054347/">Lalic et al., 2011</a>,  
+  <a href="https://pubmed.ncbi.nlm.nih.gov/30346486/">Petit-Pedrol et al., 2018</a>  
+), this questions whether LGI1 directly regulates AMPAR function under native conditions. Mapping LGI1 distribution has long been hindered by poor antibody specificity ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/24227725/">Ohkawa et al., 2013</a> 
+), but patient-derived monoclonal antibodies ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/32437528/">Ramberger et al., 2020</a> 
+) now allow precise localization at mesoscopic, subcellular, and proteomic scales ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/35727946/"> Ramirez-Franco et al., 2022</a> 
+). LGI1 expression is especially high in the hippocampus, notably in the dentate gyrus (DG) and CA3 subfields (
+  <a href="https://pubmed.ncbi.nlm.nih.gov/19833108/">  Herranz-Pérez et al., 2010</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/29520216/">  Smedfors et al., 2018</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/35727946/"> Ramirez-Franco et al., 2022</a>
+), where it can be found at a wide range of subcellular compartments like the Axonal Initial Segment, dendrites, axon terminals, and axo-glial junctions.
 </p>
 
 ## Effects of LGI1 Deficiency
 
 <p align="justify">
-LGI1 deficiency leads to reduced Kv1 channel content at the axon initial segment (AIS)—the site of action potential initiation ( <a href="https://pubmed.ncbi.nlm.nih.gov/22284179/">Kole & Stuart., 2012</a> ) —in both knockout mice ( <a href="https://pubmed.ncbi.nlm.nih.gov/28673977/">Seagar et al., 2017</a> ) and antibody-treated hippocampal slices ( <a href="https://pubmed.ncbi.nlm.nih.gov/36078121/">Extrémet et al., 2022</a> ). Infusion of pathogenic anti-LGI1 antibodies into the hippocampus induces seizures in vivo ( <a href="https://pubmed.ncbi.nlm.nih.gov/39984135/">Upadhya et al., 2025</a> ), and targeted re-expression by single-cell electroporation of LGI1 in single CA3 pyramidal neurons (in the Lgi1-/- background) restores normal excitability ( <a href="https://pubmed.ncbi.nlm.nih.gov/37863654/">Extrémet et al., 2023</a> ).
+LGI1 deficiency leads to reduced Kv1 channel content at the axon initial segment (AIS)—the site of action potential initiation ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/22284179/">Kole & Stuart., 2012</a> 
+) —in both knockout mice ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/28673977/">Seagar et al., 2017</a> 
+) and antibody-treated hippocampal slices ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/36078121/">Extrémet et al., 2022</a> 
+). Infusion of pathogenic anti-LGI1 antibodies into the hippocampus induces seizures in vivo ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/39984135/">Upadhya et al., 2025</a> 
+), and targeted re-expression by single-cell electroporation of LGI1 in single CA3 pyramidal neurons (in the Lgi1-/- background) restores normal excitability ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/37863654/">Extrémet et al., 2023</a> 
+).
 
 A hallmark of LGI1 deficiency is a robust bursting phenotype in CA3 pyramidal neurons [Ramirez-Franco et al., 2024; Zhou et al., 2023; Upadhya et al., 2025], characterized by increased after-depolarization (ADP) and enhanced spike clustering even at low current injections. In hippocampal neurons, bursting can arise from dendritic mechanisms involving Ca²⁺ spikes, augmented ADP, and modulation of dendritic potassium channels [Metz et al., 2007; Lazarewicz et al., 2002; Raus Balind et al., 2019]. Thus, LGI1 deficiency likely combines a lowered firing threshold (from AIS Kv1 loss) with enhanced dendritic excitability (via somatodendritic Kv1 and Ca²⁺ channel remodeling). This dual mechanism may promote the synchronous CA3 bursting that resembles interictal spikes [Traub & Wong, 1982; Xu & Clancy, 2008; Ren et al., 2021]. The high degree of recurrent connectivity in CA3 networks [Mitra et al., 2012], combined with the high sensitivity of CA3-driven interictal activity to low concentrations of 4-AP [Avoli & de Curtis, 2011], further supports this mechanistic framework.
 </p>
