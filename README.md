@@ -69,7 +69,7 @@ A hallmark of LGI1 deficiency is a robust bursting phenotype in CA3 pyramidal ne
 </p>
 <p align="justify" style="font-size:small;">
 <sub>
-<b>Figure 1: LGI1 defficiency increases excitability and bursting propensity through Kv1 reduction</b>. The Lgi1-/- mouse has reduced expression of Kv1.1 (top IHF pannels) and Kv1.2 (bottoom IHF) panels in the hippocampus and at the AISs of CA3 Pyramidal cells (right most panels). An increase in Intrinsic Excitability is deteected thorugh Current Clamp patch clamp in CA3 pyramidal neurons of the LGi1-/-, with a lower rheobase. In the bottom rows a higher propensity for complex AP burstig is detected in the Lgi1-/- genotype. The figure is adapted from [Ramirez-Frranco et al, 2024]. The protocol in the right-most bottom panels is adapted from Raus-Balind et al., 2019.
+<b>Figure 1: LGI1 defficiency increases excitability and bursting propensity through Kv1 reduction</b>. The Lgi1-/- mouse has reduced expression of Kv1.1 (top IHF pannels) and Kv1.2 (bottoom IHF) panels in the hippocampus and at the AISs of CA3 Pyramidal cells (right most panels). An increase in Intrinsic Excitability is deteected thorugh Current Clamp patch clamp in CA3 pyramidal neurons of the LGi1-/-, with a lower rheobase, higher gain during input/output curves and an increased depolarization. In the bottom rows a higher propensity for complex AP burstig is detected in the Lgi1-/- genotype. The figure is adapted from [Ramirez-Frranco et al, 2024]. The protocol in the right-most bottom panels is adapted from Raus-Balind et al., 2019.
 </sub>
 </p>
 <br>
