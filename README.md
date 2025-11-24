@@ -40,11 +40,9 @@ results in reduced Kv1 expression and destabilization of Kv1 channel complexes. 
 ## LGI1 and AMPA Receptor Complexes
 
 <p align="justify">
-Although early studies suggested that LGI1 organizes AMPA receptor complexes ( <a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/26178195/">Lovero et al., 2015</a> ), recent proteomic analyses failed to detect GluA subunits within LGI1 interactomes <a href="https://pubmed.ncbi.nlm.nih.gov/35727946/">Ramirez-Franco et al., 2022</a>. Combined with inconsistent electrophysiological findings 
+Although early studies suggested that LGI1 organizes AMPA receptor complexes ( <a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/26178195/">Lovero et al., 2015</a> ), recent proteomic analyses failed to detect GluA subunits within LGI1 interactomes ( <a href="https://pubmed.ncbi.nlm.nih.gov/35727946/">Ramirez-Franco et al., 2022</a> ). Combined with inconsistent electrophysiological findings 
 [Fukata et al., 2010; Lovero et al., 2015; Thomas et al., 2018; Yu et al., 2010; Boillot et al., 2016; Zhou et al., 2009; Lalic et al., 2011; Petit-Pedrol et al., 2018],
-https://pubmed.ncbi.nlm.nih.gov/20133599/
-https://pubmed.ncbi.nlm.nih.gov/26178195/
-  
+( <a href="https://pubmed.ncbi.nlm.nih.gov/20133599/">Fukata et al., 2010</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/26178195/">Lovero et al., 2015</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/30225353/">Thomas et al., 2018</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/20130004/">Yu et al., 2010</a>,  <a href="https://pubmed.ncbi.nlm.nih.gov/26878798/">Boillot et al., 2016</a>,  <a href="https://pubmed.ncbi.nlm.nih.gov/19701204/">Zhou et al., 2009</a>,  <a href="https://pubmed.ncbi.nlm.nih.gov/21054347/">Lalic et al., 2011</a>,  <a href="https://pubmed.ncbi.nlm.nih.gov/30346486/">Petit-Pedrol et al., 2018</a>  )
 this questions whether LGI1 directly regulates AMPAR function under native conditions. Mapping LGI1 distribution has long been hindered by poor antibody specificity [Ohkawa et al., 2013], but patient-derived monoclonal antibodies [Ramberger et al., 2020] now allow precise localization at mesoscopic, subcellular, and proteomic scales [Ramirez-Franco et al., 2022]. LGI1 expression is especially high in the hippocampus, notably in the dentate gyrus (DG) and CA3 subfields [Herranz-Pérez et al., 2010; Smedfors et al., 2018; Ramirez-Franco et al., 2022].
 </p>
 
