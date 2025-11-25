@@ -57,18 +57,18 @@ or pathogenic autoantibodies
 
 <p align="justify">
 Although early studies suggested that LGI1 organizes AMPA receptor complexes ( 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>; 
   <a href="https://pubmed.ncbi.nlm.nih.gov/26178195/">Lovero et al., 2015</a> 
 ), recent proteomic analyses failed to detect GluA subunits within LGI1 interactomes ( 
   <a href="https://pubmed.ncbi.nlm.nih.gov/35727946/">Ramirez-Franco et al., 2022</a> 
 ). Combined with inconsistent electrophysiological findings ( 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/20133599/">Fukata et al., 2010</a>, 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/26178195/">Lovero et al., 2015</a>, 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/30225353/">Thomas et al., 2018</a>, 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/20130004/">Yu et al., 2010</a>, 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/26878798/">Boillot et al., 2016</a>,  
-  <a href="https://pubmed.ncbi.nlm.nih.gov/19701204/">Zhou et al., 2009</a>,  
-  <a href="https://pubmed.ncbi.nlm.nih.gov/21054347/">Lalic et al., 2011</a>,  
+  <a href="https://pubmed.ncbi.nlm.nih.gov/20133599/">Fukata et al., 2010</a>; 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/26178195/">Lovero et al., 2015</a>; 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/30225353/">Thomas et al., 2018</a>; 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/20130004/">Yu et al., 2010</a>;
+  <a href="https://pubmed.ncbi.nlm.nih.gov/26878798/">Boillot et al., 2016</a>;  
+  <a href="https://pubmed.ncbi.nlm.nih.gov/19701204/">Zhou et al., 2009</a>;  
+  <a href="https://pubmed.ncbi.nlm.nih.gov/21054347/">Lalic et al., 2011</a>;  
   <a href="https://pubmed.ncbi.nlm.nih.gov/30346486/">Petit-Pedrol et al., 2018</a>  
 ), this questions whether LGI1 directly regulates AMPAR function under native conditions. Mapping LGI1 distribution has long been hindered by poor antibody specificity ( 
   <a href="https://pubmed.ncbi.nlm.nih.gov/24227725/">Ohkawa et al., 2013</a> 
@@ -99,10 +99,14 @@ LGI1 deficiency leads to reduced Kv1 channel content at the axon initial segment
 ).
 
 A hallmark of LGI1 deficiency is a robust bursting phenotype in CA3 pyramidal neurons ( 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a>,
-  <a href="https://pubmed.ncbi.nlm.nih.gov/36804022/">Zhou et al., 2023</a>,
+  <a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a>;
+  <a href="https://pubmed.ncbi.nlm.nih.gov/36804022/">Zhou et al., 2023</a>;
   <a href="https://pubmed.ncbi.nlm.nih.gov/39984135/">Upadhya et al., 2025</a> 
-), characterized by increased after-depolarization (ADP) and enhanced spike clustering even at low current injections. In hippocampal neurons, bursting can arise from dendritic mechanisms involving Ca²⁺ spikes, augmented ADP, and modulation of dendritic potassium channels [Metz et al., 2007; Lazarewicz et al., 2002; Raus Balind et al., 2019]. Thus, LGI1 deficiency likely combines a lowered firing threshold (from AIS Kv1 loss) with enhanced dendritic excitability (via somatodendritic Kv1 and Ca²⁺ channel remodeling). This dual mechanism may promote the synchronous CA3 bursting that resembles interictal spikes [Traub & Wong, 1982; Xu & Clancy, 2008; Ren et al., 2021]. The high degree of recurrent connectivity in CA3 networks [Mitra et al., 2012], combined with the high sensitivity of CA3-driven interictal activity to low concentrations of 4-AP [Avoli & de Curtis, 2011], further supports this mechanistic framework.
+), characterized by increased after-depolarization (ADP) and enhanced spike clustering even at low current injections. In hippocampal neurons, bursting can arise from dendritic mechanisms involving Ca²⁺ spikes, augmented ADP, and modulation of dendritic potassium channels (
+<a href="https://pubmed.ncbi.nlm.nih.gov/17317746/">Metz et al., 2007</a>;
+<a href="https://pubmed.ncbi.nlm.nih.gov/12459292/">Lazarewicz et al., 2002</a>;
+<a href="https://pubmed.ncbi.nlm.nih.gov/31015414/">Raus-Balind et al., 2019</a>
+). Thus, LGI1 deficiency likely combines a lowered firing threshold (from AIS Kv1 loss) with enhanced dendritic excitability (via somatodendritic Kv1 and Ca²⁺ channel remodeling). This dual mechanism may promote the synchronous CA3 bursting that resembles interictal spikes [Traub & Wong, 1982; Xu & Clancy, 2008; Ren et al., 2021]. The high degree of recurrent connectivity in CA3 networks [Mitra et al., 2012], combined with the high sensitivity of CA3-driven interictal activity to low concentrations of 4-AP [Avoli & de Curtis, 2011], further supports this mechanistic framework.
 </p>
 </p>
 <br>
@@ -111,7 +115,7 @@ A hallmark of LGI1 deficiency is a robust bursting phenotype in CA3 pyramidal ne
 </p>
 <p align="justify" style="font-size:small;">
 <sub>
-<b>Figure 1: LGI1 defficiency increases excitability and bursting propensity through Kv1 reduction</b>. The Lgi1-/- mouse has reduced expression of Kv1.1 (top IHF pannels) and Kv1.2 (bottoom IHF) panels in the hippocampus and at the AISs of CA3 Pyramidal cells (right most panels). An increase in Intrinsic Excitability is deteected thorugh Current Clamp patch clamp in CA3 pyramidal neurons of the LGi1-/-, with a lower rheobase, higher gain during input/output curves and an increased After depolarization (ADP). In the bottom rows, a higher propensity for complex AP burstig is detected in the Lgi1-/- genotype. The figure is adapted from [<a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a>]. The protocol in the right-most bottom panels is adapted from Raus-Balind et al., 2019.
+<b>Figure 1: LGI1 defficiency increases excitability and bursting propensity through Kv1 reduction</b>. The Lgi1-/- mouse has reduced expression of Kv1.1 (top IHF pannels) and Kv1.2 (bottoom IHF) panels in the hippocampus and at the AISs of CA3 Pyramidal cells (right most panels). An increase in Intrinsic Excitability is deteected thorugh Current Clamp patch clamp in CA3 pyramidal neurons of the LGi1-/-, with a lower rheobase, longer duration and amplitude of the after-depolarization (ADP) phase, and higher gain during input/output curves. In the bottom rows, a higher propensity for complex AP burstig is detected in the Lgi1-/- genotype. The figure is adapted from [<a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a>]. The protocol in the right-most bottom panels is adapted from [<a href="https://pubmed.ncbi.nlm.nih.gov/31015414/">Raus-Balind et al., 2019</a>].
 </sub>
 </p>
 <br>
@@ -123,7 +127,11 @@ A hallmark of LGI1 deficiency is a robust bursting phenotype in CA3 pyramidal ne
 We are interested in dissecting these processes using pharmacology, patch-clamp electrophysiology, Ca²⁺ imaging and high-resolution imaging techniques to define the ionic conductances underlying intrinsic hyperexcitability and network hypersynchrony in the Lgi1<sup></sup>-/-</sup> mouse.
 </p>
 <p align="justify">
-Importantly, Kv1 downregulation extends beyond the AIS [Ramirez-Franco et al., 2024], although accurate detection requires specialized antigen-retrieval approaches due to epitope masking in standard fixation conditions [Lorincz & Nusser, 2008; Haddjeri-Hopkins et al., 2021; Ramirez-Franco et al., 2024]. Because of this technical limitation, the contribution of dendritic Kv1 channels to LGI1-linked epilepsies and burst generation has likely been underestimated.
+Importantly, Kv1 downregulation extends beyond the AIS (
+  <a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a>
+), although accurate detection requires specialized antigen-retrieval approaches due to epitope masking in standard fixation conditions (
+  Lorincz & Nusser, 2008; Haddjeri-Hopkins et al., 2021; <a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a>
+). Because of this technical limitation, the contribution of dendritic Kv1 channels to LGI1-linked epilepsies and burst generation has likely been underestimated.
 </p>
 <p align="justify">
 Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel stability by forming multimeric assemblies that limit channel internalization or degradation [Yamagata et al., 2018; Yamaguchi et al., 2025]. Recent structural data suggest a higher-order trimer-of-dimers architecture (a heterohexamer), opening new perspectives on how LGI1 organizes and stabilizes membrane protein complexes in specific neuronal domains. Despite unchanged Kv1 mRNA levels in Lgi1⁻/⁻ mice [ et al., 2017], pathological features such as Kv1.2 hyper-glycosylation have been observed [Ramirez-Franco et al., 2025], suggesting defects in channel trafficking and stabilization. Endocytosis of LGI1–antibody complexes in cell culture [Ramberger et al., 2020] further supports a role for LGI1 in stabilizing membrane protein assemblies. Given LGI1’s broad interaction network, it may act as a general extracellular scaffold that promotes the stability of membrane protein complexes. However, the precise subcellular sites of LGI1 complex assembly remain unknown. Our work aims to resolve these outstanding questions by combining advanced light and electron microscopy with pathogenic monoclonal antibodies to map LGI1 assembly, trafficking, and function with subcellular precision.
