@@ -108,7 +108,7 @@ A hallmark of LGI1 deficiency is a robust bursting phenotype in CA3 pyramidal ne
 <a href="https://pubmed.ncbi.nlm.nih.gov/31015414/">Raus-Balind et al., 2019</a>
 ). Thus, LGI1 deficiency likely combines a lowered firing threshold (from AIS Kv1 loss) with enhanced dendritic excitability (via somatodendritic Kv1 and Ca²⁺ channel remodeling). This dual mechanism may promote the synchronous CA3 bursting that resembles interictal spikes [Traub & Wong, 1982; Xu & Clancy, 2008; Ren et al., 2021]. The high degree of recurrent connectivity in CA3 networks [Mitra et al., 2012], combined with the high sensitivity of CA3-driven interictal activity to low concentrations of 4-AP [Avoli & de Curtis, 2011], further supports this mechanistic framework.
 </p>
-</p>
+
 <br>
 <p align="center">
   <img src="images/Fig_2.png" alt="LGI1_in_synapses" width="1600"/>
