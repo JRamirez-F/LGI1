@@ -7,14 +7,14 @@
 LGI1 is an extracellular, secreted glycoprotein that plays a central role in synaptic organization and neuronal excitability. It forms a trans-synaptic heterotetrameric complex 
 <a href="https://www.rcsb.org/structure/5Y31">PDB: 5Y31</a> 
 composed of an LGI1 dimer bridging presynaptic ADAM23 and postsynaptic ADAM22 [
-  <a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>, 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/29670100/">Yamagata et al., 2018</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/16990550/">Fukata et al., 2006</a>; 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/29670100/">Yamagata et al., 2018</a>; 
   <a href="https://pubmed.ncbi.nlm.nih.gov/38700985/">Cuhadar et al., 2024</a>
   ]. 
 Pathogenic variants in LGI1 cause <b>Autosomal Dominant Lateral Temporal Epilepsy (ADLTE, 
   <a href="https://omim.org/entry/600512">OMIM: 600512</a> )</b>, 
 also known as <b>Autosomal Dominant Partial Epilepsy with Auditory Features (ADPEAF)</b>, a focal epilepsy syndrome characterized by auditory auras, linguistic disturbances, and focal seizures often triggered by sound [
-  <a href="https://pubmed.ncbi.nlm.nih.gov/11810107/">Kalachikov et al., 2002</a>,
+  <a href="https://pubmed.ncbi.nlm.nih.gov/11810107/">Kalachikov et al., 2002</a>;
   <a href="https://pubmed.ncbi.nlm.nih.gov/15079011/">Ottman et al., 2004</a>
   ]. ADLTE shows high penetrance, near-complete genetic specificity for LGI1, and represents one of the clearest examples of a monogenic human focal epilepsy. Beyond genetic etiologies, autoantibodies that target LGI1 cause a common form of limbic autoimmune encephalitis [
   <a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a>
@@ -42,13 +42,13 @@ secretion–competent mutations
 or pathogenic autoantibodies 
 ( <a href="https://pubmed.ncbi.nlm.nih.gov/20663977/">Irani et al., 2010</a>, 
   <a href="https://pubmed.ncbi.nlm.nih.gov/32437528/">Ramberger et al., 2020</a> 
-  ), results in reduced Kv1 expression and destabilization of Kv1 channel complexes. This decrease in Kv1 conductance lowers rheobase and produces pronounced intrinsic hyperexcitability ( 
+), results in reduced Kv1 expression and destabilization of Kv1 channel complexes. This decrease in Kv1 conductance lowers rheobase and produces pronounced intrinsic hyperexcitability ( 
   <a href="https://pubmed.ncbi.nlm.nih.gov/28673977/">Seagar et al., 2017</a>, 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/37863654/">Extrémet et al., 2023</a> )
-, particularly in CA3 pyramidal neurons ( 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/37863654/">Extrémet et al., 2023</a> 
+), particularly in CA3 pyramidal neurons ( 
   <a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a> 
 ). In contrast, PV⁺ interneurons maintain normal excitability and Kv1 content under LGI1-deficient conditions ( 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/29491011/">Zhou et al., 2018</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/29491011/">Zhou et al., 2018</a>; 
   <a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a>  
 ), underscoring a striking cell-type-specific requirement for LGI1.
 </p>
@@ -77,8 +77,8 @@ Although early studies suggested that LGI1 organizes AMPA receptor complexes (
 ) now allow precise localization at mesoscopic, subcellular, and proteomic scales ( 
   <a href="https://pubmed.ncbi.nlm.nih.gov/35727946/"> Ramirez-Franco et al., 2022</a> 
 ). LGI1 expression is especially high in the hippocampus, notably in the dentate gyrus (DG) and CA3 subfields (
-  <a href="https://pubmed.ncbi.nlm.nih.gov/19833108/">  Herranz-Pérez et al., 2010</a>, 
-  <a href="https://pubmed.ncbi.nlm.nih.gov/29520216/">  Smedfors et al., 2018</a>, 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/19833108/">  Herranz-Pérez et al., 2010</a>; 
+  <a href="https://pubmed.ncbi.nlm.nih.gov/29520216/">  Smedfors et al., 2018</a>; 
   <a href="https://pubmed.ncbi.nlm.nih.gov/35727946/"> Ramirez-Franco et al., 2022</a>
 ), where it can be found at a wide range of subcellular compartments like the Axonal Initial Segment, dendrites, axon terminals, and axo-glial junctions.
 </p>
@@ -105,14 +105,18 @@ A hallmark of LGI1 deficiency is a robust bursting phenotype in CA3 pyramidal ne
   <a href="https://pubmed.ncbi.nlm.nih.gov/36804022/">Zhou et al., 2023</a>;
   <a href="https://pubmed.ncbi.nlm.nih.gov/39984135/">Upadhya et al., 2025</a> 
 ), characterized by increased after-depolarization (ADP) and enhanced spike clustering even at low current injections. In hippocampal neurons, bursting can arise from dendritic mechanisms involving Ca²⁺ spikes, augmented ADP, and modulation of dendritic potassium channels (
-<a href="https://pubmed.ncbi.nlm.nih.gov/17317746/">Metz et al., 2007</a>;
-<a href="https://pubmed.ncbi.nlm.nih.gov/12459292/">Lazarewicz et al., 2002</a>;
-<a href="https://pubmed.ncbi.nlm.nih.gov/31015414/">Raus-Balind et al., 2019</a>
+  <a href="https://pubmed.ncbi.nlm.nih.gov/17317746/">Metz et al., 2007</a>;
+  <a href="https://pubmed.ncbi.nlm.nih.gov/12459292/">Lazarewicz et al., 2002</a>;
+  <a href="https://pubmed.ncbi.nlm.nih.gov/31015414/">Raus-Balind et al., 2019</a>
 ). Thus, LGI1 deficiency likely combines a lowered firing threshold (from AIS Kv1 loss) with enhanced dendritic excitability (via somatodendritic Kv1 and Ca²⁺ channel remodeling). This dual mechanism may promote the synchronous CA3 bursting that resembles interictal spikes (
   <a href="https://pubmed.ncbi.nlm.nih.gov/7079735/">Traub & Wong, 1982</a>;
   <a href="https://pubmed.ncbi.nlm.nih.gov/18446231/">Xu & Clancy, 2008</a>;
-  <a href="https://pubmed.ncbi.nlm.nih.gov/34326143/">Ren et al., 2021</a>;
-). The high degree of recurrent connectivity in CA3 networks [Mitra et al., 2012], combined with the high sensitivity of CA3-driven interictal activity to low concentrations of 4-AP [Avoli & de Curtis, 2011], further supports this mechanistic framework.
+  <a href="https://pubmed.ncbi.nlm.nih.gov/34326143/">Ren et al., 2021</a>
+). The high degree of recurrent connectivity in CA3 networks (
+  <a href="https://pubmed.ncbi.nlm.nih.gov/22179109/">Mitra et al., 2012</a>
+), combined with the high sensitivity of CA3-driven interictal activity to low concentrations of 4-AP (
+  <a href="https://pubmed.ncbi.nlm.nih.gov/21802488/">Avoli & de Curtis, 2011</a> 21802488/
+), further supports this mechanistic framework.
 </p>
 
 <br>
@@ -142,7 +146,12 @@ Importantly, Kv1 downregulation extends beyond the AIS (
 ). Because of this technical limitation, the contribution of dendritic Kv1 channels to LGI1-linked epilepsies and burst generation has likely been underestimated.
 </p>
 <p align="justify">
-Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel stability by forming multimeric assemblies that limit channel internalization or degradation [Yamagata et al., 2018; Yamaguchi et al., 2025]. Recent structural data suggest a higher-order trimer-of-dimers architecture (a heterohexamer), opening new perspectives on how LGI1 organizes and stabilizes membrane protein complexes in specific neuronal domains. Despite unchanged Kv1 mRNA levels in Lgi1⁻/⁻ mice [ et al., 2017], pathological features such as Kv1.2 hyper-glycosylation have been observed [Ramirez-Franco et al., 2025], suggesting defects in channel trafficking and stabilization. Endocytosis of LGI1–antibody complexes in cell culture (
+Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel stability by forming multimeric assemblies that limit channel internalization or degradation (
+  <a href="https://pubmed.ncbi.nlm.nih.gov/29670100/">Yamagata et al., 2018</a>;
+  <a href="https://pubmed.ncbi.nlm.nih.gov/40601686/">Yamaguchi et al., 2025</a>
+). Recent structural data suggest a higher-order trimer-of-dimers architecture (a heterohexamer), opening new perspectives on how LGI1 organizes and stabilizes membrane protein complexes in specific neuronal domains. Despite unchanged Kv1 mRNA levels in Lgi1⁻/⁻ mice [ et al., 2017], pathological features such as Kv1.2 hyper-glycosylation have been observed (
+  <a href="https://www.biorxiv.org/content/10.1101/2025.10.29.685130v1">Ramirez-Franco et al., 2025</a>
+), suggesting defects in channel trafficking and stabilization. Endocytosis of LGI1–antibody complexes in cell culture (
   <a href="https://pubmed.ncbi.nlm.nih.gov/32437528/">Ramberger et al., 2020</a>
 ) further supports a role for LGI1 in stabilizing membrane protein assemblies. Given LGI1’s broad interaction network, it may act as a general extracellular scaffold that promotes the stability of membrane protein complexes. However, the precise subcellular sites of LGI1 complex assembly remain unknown. Our work aims to resolve these outstanding questions by combining advanced light and electron microscopy with pathogenic monoclonal antibodies to map LGI1 assembly, trafficking, and function with subcellular precision.
 </p>
