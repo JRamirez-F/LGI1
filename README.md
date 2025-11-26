@@ -158,7 +158,18 @@ Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel s
 ] further supports a role for LGI1 in stabilizing membrane protein assemblies. Given LGI1’s broad interaction network, it may act as a general extracellular scaffold that promotes the stability of membrane protein complexes. However, the precise subcellular sites of LGI1 complex assembly remain unknown. Our work aims to resolve these outstanding questions by combining advanced light and electron microscopy with pathogenic monoclonal antibodies to map LGI1 assembly, trafficking, and function with subcellular precision.
 </p>
 
+## Resolved structures
+
+<p align="justify">
+Heterotetrameric (2 ADAM22 : 2 LGI1) and heterohexameric (3 ADAM22 : 3 LGI1) assemblies of the LGI1–ADAM22 complex have been structurally resolved. Through their PDZ-binding motifs, ADAM22 molecules interact with scaffold proteins such as PSD93 and PSD95, leading to the compartment-specific clustering of these complexes at the axon initial segment (via PSD93), dendritic domains, and presynaptic terminals. These localized assemblies are essential for regulating neuronal excitability and synaptic strength.
+</p>
+<p align="justify">
+Despite this detailed structural understanding, the mechanism by which LGI1–ADAM22 complexes stabilize Kv1 channel surface expression and prevent their degradation remains poorly understood. One possibility is that LGI1–ADAM22 complexes act as nucleation hubs for higher-order macromolecular assemblies that incorporate Kv1 channels, thereby organizing and protecting them within specialized membrane microdomains.  
+</p>
+
+
 ## Our contributions to understanding LGI1
+
 <p align="justify">
 <h5>Extrémet J, <b>Ramirez-Franco J</b>, Fronzaroli-Molinieres L, Boumedine-Guignon N, Ankri N, El Far O, Garrido JJ, Debanne D & Russier M (2023) Rescue of Normal Excitability in LGI1-Deficient Epileptic Neurons. J Neurosci 43: 8596–8606</h5><br>
 <br>  
