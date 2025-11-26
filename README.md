@@ -125,10 +125,37 @@ A hallmark of LGI1 deficiency is a robust bursting phenotype in CA3 pyramidal ne
 </p>
 <p align="justify" style="font-size:small;">
 <sub>
-<b>Figure 1: LGI1 defficiency increases excitability and bursting propensity through Kv1 reduction</b>. The Lgi1-/- mouse has reduced expression of Kv1.1 (top IHF pannels) and Kv1.2 (bottoom IHF) panels in the hippocampus and at the AISs of CA3 Pyramidal cells (right most panels). An increase in Intrinsic Excitability is deteected thorugh Current Clamp patch clamp in CA3 pyramidal neurons of the LGi1-/-, with a lower rheobase, longer duration and amplitude of the after-depolarization (ADP) phase, and higher gain during input/output curves. In the bottom rows, a higher propensity for complex AP burstig is detected in the Lgi1-/- genotype. The figure is adapted from [<a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a>]. The protocol in the right-most bottom panels is adapted from [<a href="https://pubmed.ncbi.nlm.nih.gov/31015414/">Raus-Balind et al., 2019</a>].
+<b>Figure 1: LGI1 defficiency increases excitability and bursting propensity through Kv1 reduction</b>. The Lgi1-/- mouse has reduced expression of Kv1.1 (top IHF pannels) and Kv1.2 (bottoom IHF) panels in the hippocampus and at the AISs of CA3 Pyramidal cells (right most panels). An increase in Intrinsic Excitability is deteected thorugh Current Clamp patch clamp in CA3 pyramidal neurons of the LGi1-/-, with a lower rheobase, longer duration and amplitude of the after-depolarization (ADP) phase, and higher gain during input/output curves. In the bottom rows, a higher propensity for complex AP burstig is detected in the Lgi1-/- genotype. The figure is adapted from [
+  <a href="https://pubmed.ncbi.nlm.nih.gov/38663634/">Ramirez-Franco et al., 2024</a>
+]. The protocol in the right-most bottom panels is adapted from [
+  <a href="https://pubmed.ncbi.nlm.nih.gov/31015414/">Raus-Balind et al., 2019</a>
+].
 </sub>
 </p>
 <br>
+
+## Resolved structures
+
+<p align="justify">
+Heterotetrameric (2 ADAM22 : 2 LGI1) and heterohexameric (3 ADAM22 : 3 LGI1) assemblies of the LGI1–ADAM22 complex have been structurally resolved. Through their PDZ-binding motifs, ADAM22 molecules interact with scaffold proteins such as PSD93 and PSD95, leading to the compartment-specific clustering of these complexes at the axon initial segment (via PSD93), dendritic domains, and presynaptic terminals. These localized assemblies are essential for regulating neuronal excitability and synaptic strength.
+</p>
+<p align="justify">
+Despite this detailed structural understanding, the mechanism by which LGI1–ADAM22 complexes stabilize Kv1 channel surface expression and prevent their degradation remains poorly understood. One possibility is that LGI1–ADAM22 complexes act as nucleation hubs for higher-order macromolecular assemblies that incorporate Kv1 channels, thereby organizing and protecting them within specialized membrane microdomains.  
+</p>
+</p>
+<br>
+<p align="center">
+  <img src="images/structures.png" alt="LGI1_in_synapses" width="1600"/>
+</p>
+<p align="justify" style="font-size:small;">
+<sub>
+<b>Figure 1: LGI1 forms different higher order supramolecular complexes</b>. The 5y31 model (left) describes a dimer of dimers (heterotetramer) [
+  <a href="https://pubmed.ncbi.nlm.nih.gov/29670100/">Yamagata et al., 2018</a>]
+, while the recently published model 9kzt shows a trimer of dimers (heterohexamer) [
+  <a href="https://pubmed.ncbi.nlm.nih.gov/40601686/">Yamaguchi et al., 2025</a>
+] despite this deep structural understanding, the precise mechanisms by which LGI1 stabilizes Kv1 channels in the membrane remain unresolved.
+</sub>
+</p>
 
 
 ## Research Approaches
@@ -157,16 +184,6 @@ Although LGI1 is a secreted extracellular protein, it may regulate Kv1 channel s
   <a href="https://pubmed.ncbi.nlm.nih.gov/32437528/">Ramberger et al., 2020</a>
 ] further supports a role for LGI1 in stabilizing membrane protein assemblies. Given LGI1’s broad interaction network, it may act as a general extracellular scaffold that promotes the stability of membrane protein complexes. However, the precise subcellular sites of LGI1 complex assembly remain unknown. Our work aims to resolve these outstanding questions by combining advanced light and electron microscopy with pathogenic monoclonal antibodies to map LGI1 assembly, trafficking, and function with subcellular precision.
 </p>
-
-## Resolved structures
-
-<p align="justify">
-Heterotetrameric (2 ADAM22 : 2 LGI1) and heterohexameric (3 ADAM22 : 3 LGI1) assemblies of the LGI1–ADAM22 complex have been structurally resolved. Through their PDZ-binding motifs, ADAM22 molecules interact with scaffold proteins such as PSD93 and PSD95, leading to the compartment-specific clustering of these complexes at the axon initial segment (via PSD93), dendritic domains, and presynaptic terminals. These localized assemblies are essential for regulating neuronal excitability and synaptic strength.
-</p>
-<p align="justify">
-Despite this detailed structural understanding, the mechanism by which LGI1–ADAM22 complexes stabilize Kv1 channel surface expression and prevent their degradation remains poorly understood. One possibility is that LGI1–ADAM22 complexes act as nucleation hubs for higher-order macromolecular assemblies that incorporate Kv1 channels, thereby organizing and protecting them within specialized membrane microdomains.  
-</p>
-
 
 ## Our contributions to understanding LGI1
 
