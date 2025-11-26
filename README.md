@@ -153,7 +153,7 @@ Despite this detailed structural understanding, the mechanism by which LGI1–AD
   <a href="https://pubmed.ncbi.nlm.nih.gov/29670100/">Yamagata et al., 2018</a>]
 , while the recently published model 9kzt shows a trimer of dimers (heterohexamer) [
   <a href="https://pubmed.ncbi.nlm.nih.gov/40601686/">Yamaguchi et al., 2025</a>
-] despite this deep structural understanding, the precise mechanisms by which LGI1 stabilizes Kv1 channels in the membrane remain unresolved.
+]. LGI1 monomers are depicted in green/blue shades and ADAM 22 is in orange. Despite this deep structural understanding of LGI1:ADAM 22 complexes, the precise mechanisms by which LGI1 stabilizes Kv1 channels in the membrane remain unresolved.
 </sub>
 </p>
 
