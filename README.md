@@ -142,7 +142,6 @@ Heterotetrameric (2 ADAM22 : 2 LGI1) and heterohexameric (3 ADAM22 : 3 LGI1) ass
 <p align="justify">
 Despite this detailed structural understanding, the mechanism by which LGI1–ADAM22 complexes stabilize Kv1 channel surface expression and prevent their degradation remains poorly understood. One possibility is that LGI1–ADAM22 complexes act as nucleation hubs for higher-order macromolecular assemblies that incorporate Kv1 channels, thereby organizing and protecting them within specialized membrane microdomains.  
 </p>
-<br>
 <p align="center">
   <img src="images/structures.png" alt="LGI1_in_synapses" width="1600"/>
 </p>
